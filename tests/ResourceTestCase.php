@@ -7,11 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 abstract class ResourceTestCase extends TestCase
 {
-
-    /**
-     * @var Client
-     */
-    protected $client;
+    protected Client $client;
 
     public function __construct(string $name = null, array $data = [], string $dataName = '')
     {

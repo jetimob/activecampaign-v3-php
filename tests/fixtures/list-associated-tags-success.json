@@ -1,0 +1,32 @@
+{
+  "contactTags": [
+    {
+      "contact": "263646",
+      "tag": "4",
+      "cdate": "2023-09-19T15:49:25-05:00",
+      "created_timestamp": "2023-09-19 15:49:25",
+      "updated_timestamp": "2023-09-19 15:49:25",
+      "created_by": null,
+      "updated_by": null,
+      "links": {
+        "tag": "https://ratespecial84773.api-us1.com/api/3/contactTags/2/tag",
+        "contact": "https://ratespecial84773.api-us1.com/api/3/contactTags/2/contact"
+      },
+      "id": "2"
+    },
+    {
+      "contact": "263646",
+      "tag": "3",
+      "cdate": "2023-09-19T15:49:25-05:00",
+      "created_timestamp": "2023-09-19 15:49:25",
+      "updated_timestamp": "2023-09-19 15:49:25",
+      "created_by": null,
+      "updated_by": null,
+      "links": {
+        "tag": "https://ratespecial84773.api-us1.com/api/3/contactTags/3/tag",
+        "contact": "https://ratespecial84773.api-us1.com/api/3/contactTags/3/contact"
+      },
+      "id": "3"
+    }
+  ]
+}

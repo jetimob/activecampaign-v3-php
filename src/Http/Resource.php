@@ -11,11 +11,8 @@ use Jetimob\ActiveCampaign\Http\Exceptions\Unprocessable;
 
 class Resource
 {
-    protected Client $client;
-
-    public function __construct(Client $client)
+    public function __construct(protected Client $client)
     {
-        $this->client = $client;
     }
 
     private function httpRequest(string $method, string $url, array $data = []): array
